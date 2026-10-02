@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
             <Link to="/" className="flex items-center gap-3 group">
               <img
                 src="/images/logo.png"
-                alt="Drive Explore Northeast"
+                alt="Drive Explore Northeast & Tours"
                 className="w-14 h-14 object-contain filter drop-shadow-md"
               />
               <div>
@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
                   Drive Explore
                 </span>
                 <span className="text-xs font-semibold text-gold-500 uppercase tracking-widest block">
-                  Northeast
+                  Northeast &amp; Tours
                 </span>
               </div>
             </Link>
@@ -175,7 +175,7 @@ export const Footer: React.FC = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-warm-400 gap-4">
-          <p>© 2026 Drive Explore Northeast. All Rights Reserved.</p>
+          <p>© 2026 Drive Explore Northeast &amp; Tours. All Rights Reserved.</p>
           <p className="text-center sm:text-right">
             Lanka, Shillong Road, Ward No. 11, Hojai, Assam – 782446
           </p>

@@ -21,14 +21,14 @@ export const Home: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Drive Explore Northeast | Car &amp; Bike Rental in Hojai Assam</title>
+        <title>Drive Explore Northeast &amp; Tours | Car &amp; Bike Rental in Hojai Assam</title>
         <meta
           name="description"
-          content="Drive Explore Northeast offers car, SUV, bike and scooty rental services in Hojai, Assam with 24×7 service."
+          content="Drive Explore Northeast &amp; Tours offers car, SUV, bike and scooty rental services in Hojai, Assam with 24×7 service."
         />
         <meta
           name="keywords"
-          content="Drive Explore Northeast, Drive Explore Northeast Hojai, car rental Hojai, self drive car Hojai, vehicle rental Hojai, SUV rental Hojai, bike rental Hojai, scooty rental Hojai, Scorpio rental Hojai, Thar rental Hojai, car rental Assam, bike rental Assam, Northeast car rental, Northeast vehicle rental"
+          content="Drive Explore Northeast &amp; Tours, Drive Explore Northeast, Drive Explore Northeast Hojai, car rental Hojai, self drive car Hojai, vehicle rental Hojai, SUV rental Hojai, bike rental Hojai, scooty rental Hojai, Scorpio rental Hojai, Thar rental Hojai, car rental Assam, bike rental Assam, Northeast car rental, Northeast vehicle rental, Northeast tours"
         />
       </Helmet>
 

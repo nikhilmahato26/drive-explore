@@ -67,7 +67,7 @@ export const ScootySection: React.FC = () => {
               </div>
 
               <p className="text-sm text-charcoal-700 leading-relaxed font-normal">
-                Looking for effortless local commuting or short scenic rides? Drive Explore Northeast offers scooty rentals with 24×7 booking assistance. Connect via phone or WhatsApp to verify terms and confirm your ride.
+                Looking for effortless local commuting or short scenic rides? Drive Explore Northeast &amp; Tours offers scooty rentals with 24×7 booking assistance. Connect via phone or WhatsApp to verify terms and confirm your ride.
               </p>
 
               <div className="pt-2 flex flex-wrap items-center gap-3">

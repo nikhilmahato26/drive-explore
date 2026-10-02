@@ -178,7 +178,7 @@ export const BookingWidget: React.FC<BookingWidgetProps> = ({ onSelectVehicle })
           {/* Submit Action */}
           <div className="sm:col-span-2 lg:col-span-5 pt-3 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-warm-200 mt-2">
             <p className="text-xs text-charcoal-600">
-              *Enquiry only. Connect directly with Drive Explore Northeast for rental terms and vehicle scheduling.
+              *Enquiry only. Connect directly with Drive Explore Northeast &amp; Tours for rental terms and vehicle scheduling.
             </p>
             <button
               type="submit"

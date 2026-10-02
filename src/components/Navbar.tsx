@@ -84,7 +84,7 @@ export const Navbar: React.FC = () => {
             >
               <img
                 src="/images/logo.png"
-                alt="Drive Explore Northeast Logo"
+                alt="Drive Explore Northeast & Tours Logo"
                 className={`transition-all duration-300 drop-shadow-sm ${
                   isScrolled ? "w-10 h-10 sm:w-11 sm:h-11" : "w-12 h-12 sm:w-14 sm:h-14"
                 }`}
@@ -94,7 +94,7 @@ export const Navbar: React.FC = () => {
                   Drive Explore
                 </span>
                 <span className="text-[10px] sm:text-xs font-semibold tracking-widest text-gold-600 uppercase">
-                  Northeast
+                  Northeast &amp; Tours
                 </span>
               </div>
             </Link>

@@ -16,7 +16,7 @@ export const ContactSection: React.FC = () => {
             GET IN TOUCH
           </h2>
           <p className="text-sm sm:text-base text-charcoal-700 font-medium">
-            Contact Drive Explore Northeast for bookings, enquiries and travel mobility assistance.
+            Contact Drive Explore Northeast &amp; Tours for bookings, enquiries and travel mobility assistance.
           </p>
         </div>
 
@@ -27,12 +27,12 @@ export const ContactSection: React.FC = () => {
               <div className="flex items-center gap-3.5">
                 <img
                   src="/images/logo.png"
-                  alt="Drive Explore Northeast"
+                  alt="Drive Explore Northeast &amp; Tours"
                   className="w-14 h-14 object-contain filter drop-shadow"
                 />
                 <div>
                   <h3 className="font-display font-extrabold text-xl sm:text-2xl text-charcoal-950 uppercase tracking-tight">
-                    DRIVE EXPLORE NORTHEAST
+                    DRIVE EXPLORE NORTHEAST &amp; TOURS
                   </h3>
                   <span className="inline-flex items-center gap-1.5 text-xs font-bold text-forest-800 bg-forest-100 px-2.5 py-0.5 rounded-full mt-1">
                     <Clock className="w-3.5 h-3.5" />
@@ -145,7 +145,7 @@ export const ContactSection: React.FC = () => {
               {/* Map Container */}
               <div className="relative rounded-2xl overflow-hidden border border-warm-200 aspect-[16/10] bg-warm-100 shadow-inner flex items-center justify-center">
                 <iframe
-                  title="Drive Explore Northeast Location Map"
+                  title="Drive Explore Northeast &amp; Tours Location Map"
                   src="https://maps.google.com/maps?q=Lanka,%20Shillong%20Road,%20Ward%20No.%2011,%20Hojai,%20Assam&t=&z=14&ie=UTF8&iwloc=&output=embed"
                   className="w-full h-full border-0"
                   loading="lazy"

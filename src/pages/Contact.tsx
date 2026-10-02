@@ -8,10 +8,10 @@ export const ContactPage: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us &amp; Location | Drive Explore Northeast</title>
+        <title>Contact Us &amp; Location | Drive Explore Northeast &amp; Tours</title>
         <meta
           name="description"
-          content="Contact Drive Explore Northeast in Hojai, Assam. Phone: 9101517053. Email: driveexplorenortheast8@gmail.com. 24x7 service availability."
+          content="Contact Drive Explore Northeast &amp; Tours in Hojai, Assam. Phone: 9101517053. Email: driveexplorenortheast8@gmail.com. 24x7 service availability."
         />
       </Helmet>
 

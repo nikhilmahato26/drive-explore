@@ -13,7 +13,7 @@ export const About: React.FC = () => {
               <div className="relative mb-5">
                 <img
                   src="/images/logo.png"
-                  alt="Drive Explore Northeast Official Logo"
+                  alt="Drive Explore Northeast &amp; Tours Official Logo"
                   className="w-48 h-48 sm:w-56 sm:h-56 object-contain filter drop-shadow-xl hover:scale-105 transition-transform duration-300"
                 />
               </div>
@@ -23,7 +23,7 @@ export const About: React.FC = () => {
                   Official Brand Emblem
                 </span>
                 <h4 className="font-display font-extrabold text-xl text-charcoal-950 uppercase tracking-tight">
-                  DRIVE EXPLORE NORTHEAST
+                  DRIVE EXPLORE NORTHEAST &amp; TOURS
                 </h4>
                 <p className="text-xs text-charcoal-700 font-medium">
                   Lanka, Shillong Road, Ward No. 11, Hojai, Assam
@@ -62,7 +62,7 @@ export const About: React.FC = () => {
             </div>
 
             <p className="text-sm sm:text-base text-charcoal-700 leading-relaxed">
-              Based at Lanka, Shillong Road, Ward No. 11 in Hojai, Assam, Drive Explore Northeast provides dependable mobility options tailored for Northeast travel. Whether you need a rugged SUV for hilly terrain, a comfortable family carrier, a city car, or a two-wheeler for open-air freedom, vehicle enquiries and assistance are available 24×7.
+              Based at Lanka, Shillong Road, Ward No. 11 in Hojai, Assam, Drive Explore Northeast &amp; Tours provides dependable mobility options tailored for Northeast travel. Whether you need a rugged SUV for hilly terrain, a comfortable family carrier, a city car, or a two-wheeler for open-air freedom, vehicle enquiries and assistance are available 24×7.
             </p>
 
             {/* Factual Highlights List */}

@@ -20,7 +20,7 @@ export const WhyChooseUs: React.FC = () => {
             Our Business Strengths
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold font-display text-charcoal-950 tracking-tight">
-            WHY DRIVE EXPLORE NORTHEAST?
+            WHY DRIVE EXPLORE NORTHEAST &amp; TOURS?
           </h2>
           <p className="text-base text-charcoal-700 font-medium">
             Dedicated vehicle rental solutions tailored for exploring Northeast India with confidence.

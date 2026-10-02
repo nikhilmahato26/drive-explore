@@ -131,7 +131,7 @@ export const BookingForm: React.FC = () => {
               BOOK YOUR RIDE
             </h2>
             <p className="text-sm text-warm-200 mt-1">
-              Submit your travel requirement to connect directly with Drive Explore Northeast.
+              Submit your travel requirement to connect directly with Drive Explore Northeast &amp; Tours.
             </p>
           </div>
           <div className="inline-flex items-center gap-2 self-start px-3 py-1.5 rounded-lg bg-forest-800/80 border border-forest-700 text-xs font-semibold text-warm-100">

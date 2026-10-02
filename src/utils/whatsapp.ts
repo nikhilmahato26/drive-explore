@@ -18,13 +18,13 @@ export function generateWhatsAppLink(params?: WhatsAppEnquiryParams | string): s
   }
 
   if (!params || (!params.vehicleName && !params.category && !params.pickupLocation)) {
-    const defaultMsg = "Hello Drive Explore Northeast, I would like to enquire about your vehicle rental services. Please share the available options and details.";
+    const defaultMsg = "Hello Drive Explore Northeast & Tours, I would like to enquire about your vehicle rental and tour services. Please share the available options and details.";
     return `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(defaultMsg)}`;
   }
 
   const { vehicleName, category, travelDate, travelTime, pickupLocation, fullName, passengers, additionalNotes } = params;
 
-  let message = `Hello Drive Explore Northeast,`;
+  let message = `Hello Drive Explore Northeast & Tours,`;
 
   if (vehicleName) {
     message += ` I am interested in renting the ${vehicleName}`;

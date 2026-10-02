@@ -13,7 +13,7 @@ export const FloatingWhatsApp: React.FC = () => {
           showTooltip ? "opacity-100 translate-x-0" : "opacity-0 translate-x-2"
         }`}
       >
-        Chat With Drive Explore Northeast
+        Chat With Drive Explore Northeast &amp; Tours
       </div>
 
       {/* Button with subtle pulse animation */}
@@ -24,7 +24,7 @@ export const FloatingWhatsApp: React.FC = () => {
         onMouseEnter={() => setShowTooltip(true)}
         onMouseLeave={() => setShowTooltip(false)}
         className="relative group p-3.5 sm:p-4 rounded-full bg-emerald-500 hover:bg-emerald-600 text-white shadow-lift transition-transform duration-300 hover:scale-110 flex items-center justify-center focus:outline-none focus:ring-4 focus:ring-emerald-300"
-        aria-label="Chat With Drive Explore Northeast on WhatsApp"
+        aria-label="Chat With Drive Explore Northeast &amp; Tours on WhatsApp"
       >
         {/* Pulse ring */}
         <span className="absolute -inset-1 rounded-full bg-emerald-400 opacity-75 animate-ping group-hover:opacity-100" />

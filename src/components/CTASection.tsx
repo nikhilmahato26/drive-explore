@@ -8,7 +8,7 @@ export const CTASection: React.FC = () => {
     <section className="relative overflow-hidden bg-forest-900 text-warm-50 py-16 sm:py-20 border-y-4 border-gold-500">
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
         <span className="inline-block px-4 py-1.5 rounded-full bg-forest-800 text-gold-400 text-xs sm:text-sm font-bold tracking-widest uppercase border border-forest-700">
-          Drive Explore Northeast
+          Drive Explore Northeast &amp; Tours
         </span>
 
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold font-display text-white tracking-tight">
@@ -16,7 +16,7 @@ export const CTASection: React.FC = () => {
         </h2>
 
         <p className="text-base sm:text-xl text-warm-200 max-w-2xl mx-auto font-medium leading-relaxed">
-          Choose your ride and start planning your next journey with Drive Explore Northeast.
+          Choose your ride and start planning your next journey with Drive Explore Northeast &amp; Tours.
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-4 pt-4">

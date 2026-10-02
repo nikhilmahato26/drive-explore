@@ -28,7 +28,7 @@ export const Hero: React.FC = () => {
             className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-forest-900 text-warm-50 text-xs sm:text-sm font-bold tracking-wider uppercase mb-5 shadow-sm"
           >
             <span className="w-2 h-2 rounded-full bg-gold-400 animate-pulse"></span>
-            DRIVE EXPLORE NORTHEAST
+            DRIVE EXPLORE NORTHEAST &amp; TOURS
           </motion.div>
 
           {/* Main Heading */}
@@ -58,7 +58,7 @@ export const Hero: React.FC = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="text-base sm:text-lg text-charcoal-800 leading-relaxed mb-8 max-w-xl font-medium"
           >
-            Choose your ride and explore the roads, landscapes and destinations of Northeast India with Drive Explore Northeast.
+            Choose your ride and explore the roads, landscapes and destinations of Northeast India with Drive Explore Northeast &amp; Tours.
           </motion.p>
 
           {/* CTAs */}

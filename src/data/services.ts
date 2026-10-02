@@ -1,9 +1,9 @@
 export const businessInfo = {
-  name: "Drive Explore Northeast",
+  name: "Drive Explore Northeast & Tours",
   tagline: "EXPLORE NORTHEAST. YOUR WAY.",
-  supportingCopy: "Choose your ride and explore the beauty of Northeast India with Drive Explore Northeast.",
+  supportingCopy: "Choose your ride and explore the beauty of Northeast India with Drive Explore Northeast & Tours.",
   subheading: "Cars, Bikes & Scooters for Your Next Journey",
-  aboutCopy: "Drive Explore Northeast is a vehicle rental service based in Hojai, Assam, offering cars, SUVs, a people-carrier option, motorcycles and scooty rentals.",
+  aboutCopy: "Drive Explore Northeast & Tours is a vehicle rental and tour service based in Hojai, Assam, offering cars, SUVs, a people-carrier option, motorcycles and scooty rentals.",
   phone: "9101517053",
   phoneDisplay: "9101517053",
   phoneLink: "tel:+919101517053",
@@ -82,7 +82,7 @@ export const howItWorksSteps = [
   {
     step: "STEP 03",
     title: "Send Your Enquiry",
-    description: "Contact Drive Explore Northeast by phone or WhatsApp.",
+    description: "Contact Drive Explore Northeast & Tours by phone or WhatsApp.",
   },
   {
     step: "STEP 04",

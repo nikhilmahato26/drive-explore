@@ -63,7 +63,7 @@ export const HowItWorks: React.FC = () => {
         </div>
 
         <div className="mt-8 text-center text-xs text-charcoal-500">
-          *Note: All rentals are confirmed following enquiry verification with Drive Explore Northeast. Instant or guaranteed availability is subject to direct confirmation.
+          *Note: All rentals are confirmed following enquiry verification with Drive Explore Northeast &amp; Tours. Instant or guaranteed availability is subject to direct confirmation.
         </div>
       </div>
     </section>

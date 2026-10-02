@@ -48,7 +48,7 @@ export const VehiclesPage: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Vehicle Fleet | Drive Explore Northeast</title>
+        <title>Vehicle Fleet | Drive Explore Northeast &amp; Tours</title>
         <meta
           name="description"
           content="Explore our complete fleet of cars, SUVs, bikes and scooty available for rent in Hojai, Assam. 24×7 service."
